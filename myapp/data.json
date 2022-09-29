@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "title": "millind",
+      "img": "https://picsum.photos/200/300",
+      "email": "ramlala_nj2_075@masai.school",
+      "phone": "1244",
+      "country": "HTML",
+      "id": 5
+    },
+    {
+      "title": "ramlala",
+      "img": "https://picsum.photos/200/300",
+      "email": "ramlala_nj2_075@masai.school",
+      "phone": "123",
+      "country": "HTML",
+      "id": 6
+    },
+    {
+      "title": "ramlala",
+      "img": "https://picsum.photos/200/300",
+      "email": "ramlala_nj2_075@masai.school",
+      "phone": "6233",
+      "country": "HTML",
+      "id": 7
+    }
+  ],
+  "cont": [
+    {
+      "title1": "Ramlala",
+      "img": "https://picsum.photos/200/300",
+      "email": "ramlala_nj2_075@masai.school",
+      "message": "Ramlala is waiting",
+      "id": 1
+    },
+    {
+      "title1": "millind",
+      "img": "https://picsum.photos/200/300",
+      "email": "ramlala_nj2_075@masai.school",
+      "message": "why you want fund",
+      "id": 2
+    },
+    {
+      "email": "ramlala_nj2_075@masai.school",
+      "img": "https://picsum.photos/200/300",
+      "title1": "Millind",
+      "message": "How",
+      "id": 3
+    },
+    {
+      "title1": "Ramalala",
+      "img": "https://picsum.photos/200/300",
+      "email": "ramlala_nj2_075@masai.school",
+      "message": "jfoasjfo;i",
+      "id": 4
+    }
+  ],
+  "url": [
+    {
+      "id": 1,
+      "url": ""
+    }
+  ]
+}
